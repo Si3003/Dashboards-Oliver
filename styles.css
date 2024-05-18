@@ -5,7 +5,7 @@ body, html {
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url("C:/Program_Tools/VSCode/Test2/photo.jpg");
+    background-image: url("https://github.com/SiLae0k/Dashboards-Oliver/blob/main/photo.jpg");
     background-size: cover; /* Menutupi seluruh area background */
     background-position: center; /* Memposisikan background di tengah */
 }
