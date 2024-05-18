@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dashboard -Oliver-</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="buttons">
+            <button class="button source-etp active" onclick="loadFiles('etp', this)">APPLICATION ETP</button>
+            <button class="button source-store" onclick="loadFiles('store', this)">SOURCE STORE</button>
+            <button class="button database-indo" onclick="loadFiles('databaseindo', this)">DATABASE INDO</button>
+            <button class="button database-ph" onclick="loadFiles('databaseph', this)">DATABASE PH</button>
+            <button class="button database-vn" onclick="loadFiles('databasevn', this)">DATABASE VN</button>
+            <button class="button how-to" onclick="loadFiles('howto', this)">How To</button>
+        </div>
+        <input type="text" id="searchInput" class="search-input" onkeyup="searchFiles()" placeholder="Search for file names..">
+        <div class="table-container">
+            <table class="main-table">
+                <thead>
+                    <tr>
+                        <th>FILE NAME :</th>
+                        <th>Action :</th>
+                    </tr>
+                </thead>
+                <tbody id="file-list">
+                    <!-- File rows will be inserted here by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+        <div id="message" class="message"></div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
