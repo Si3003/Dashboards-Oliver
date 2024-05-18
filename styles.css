@@ -1,21 +1,25 @@
+body, html {
+    height: 99%;
+    margin: 0;
+}
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #317399;
-    margin: 0;
-    padding: 0;
-    overflow: hidden; /* Disable vertical scrolling */
+    background-image: url("C:/Program_Tools/VSCode/Test2/photo.jpg");
+    background-size: cover; /* Menutupi seluruh area background */
+    background-position: center; /* Memposisikan background di tengah */
 }
 
 .container {
     width: 80%;
     margin: 10px auto;
-    background-color: #2b5797;
+    background-color: rgba(43, 87, 151, 0.5); /* Warna transparan */
     padding: 30px;
     border-radius: 8px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    position: relative; /* Needed for positioning search input */
+    position: relative; /* Diperlukan untuk penempatan input pencarian */
 }
 
 .buttons {
@@ -119,4 +123,14 @@ body {
     padding: 5px;
     border-radius: 4px;
     border: 1px solid #ccc;
+}
+
+
+.small-text {
+    font-size: 12px; /* Mengatur ukuran teks menjadi kecil */
+    margin: 10px; /* Memberi sedikit margin dari tepi */
+    position: absolute;
+    top: 1px; /* Adjust as needed */
+    right:10px; /* Adjust as needed */
+    color: #ffffff;
 }
