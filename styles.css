@@ -1,39 +1,42 @@
 body, html {
-    height: 99%;
+    height: 90%;
     margin: 0;
+    padding: 0;
 }
 
 body {
     font-family: Arial, sans-serif;
     background-image: url("https://raw.githubusercontent.com/SiLae0k/Dashboards-Oliver/main/photo.jpg");
-    background-size: cover; /* Menutupi seluruh area background */
-    background-position: center; /* Memposisikan background di tengah */
+    background-size: cover;
+    background-position: center;
 }
 
 .container {
-    width: 80%;
-    margin: 10px auto;
-    background-color: rgba(43, 87, 151, 0.5); /* Warna transparan */
-    padding: 30px;
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: rgba(43, 87, 151, 0.5);
+    padding: 20px;
     border-radius: 8px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    position: relative; /* Diperlukan untuk penempatan input pencarian */
 }
 
 .buttons {
     display: flex;
-    justify-content: space-between;
-    width: 60%;
-    margin-bottom: 34px;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 .button {
     background-color: #2b5797;
     color: white;
     border: none;
-    padding: 5px 10px;
+    padding: 10px 20px;
+    margin: 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -52,7 +55,7 @@ body {
 
 .table-container {
     width: 100%;
-    max-height: 400px; /* Adjust this value as needed */
+    max-height: 400px;
     background-color: #2b5797;
     border-radius: 10px;
     overflow-y: auto;
@@ -64,25 +67,21 @@ body {
 }
 
 .main-table th {
-    padding: 15px;
+    padding: 10px;
     text-align: center;
     border: 1px solid #ddd;
-    vertical-align: middle;
 }
 
 .main-table td {
     padding: 10px;
     text-align: left;
     border: 1px solid #ddd;
-    vertical-align: middle;
 }
 
 .main-table th {
-    background-color: #2b5797;
-    color: white;
-    position: sticky;
-    top: 0;
-    z-index: 2;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
 }
 
 .main-table td {
@@ -94,10 +93,8 @@ body {
     color: white;
     text-decoration: none;
     font-weight: bold;
-    text-align: center; /* Mengatur teks di tengah */
-    display: block; /* Memastikan agar teks di tengah diaplikasikan secara benar */
-    margin: 0 auto; /* Mengatur margin untuk membuat teks berada di tengah horizontal */
-    width: 100px; /* Mengatur lebar elemen sesuai kebutuhan */
+    display: block;
+    text-align: center;
 }
 
 .download-link:hover {
@@ -111,26 +108,34 @@ body {
     color: #ffffff;
 }
 
-/* New CSS to center align text in Action column */
-.main-table td.action {
-    text-align: center;
-}
-
 .search-input {
-    position: absolute;
-    top: 62px; /* Adjust as needed */
-    right:1380px; /* Adjust as needed */
-    padding: 5px;
+    width: calc(30% - 40px);
+    margin: 10px 0;
+    padding: 10px;
     border-radius: 4px;
     border: 1px solid #ccc;
 }
 
-
 .small-text {
-    font-size: 12px; /* Mengatur ukuran teks menjadi kecil */
-    margin: 10px; /* Memberi sedikit margin dari tepi */
-    position: absolute;
-    top: 1px; /* Adjust as needed */
-    right:10px; /* Adjust as needed */
+    font-size: 12px;
+    margin: 10px;
     color: #ffffff;
+}
+
+/* Responsive Design */
+@media (max-width: 500px) {
+    .buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .button {
+        width: 60%;
+        margin: 5px 0;
+    }
+
+    .container {
+        width: 80%;
+        padding: 15px;
+    }
 }

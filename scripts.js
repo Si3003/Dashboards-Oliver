@@ -10,7 +10,7 @@ const files = {
         },
         {
             name: 'ETPSuite_Version(91B).zip',
-            url: 'https://example.com/path/to/ETPSuite_Version(91B).zip'
+            url: 'https://SATUS_HAS_NOT_BEEN_RELEASED.com/path/to/ETPSuite_Version(91B).zip'
         },
         {
             name: 'ETPSuite_98A.zip',
