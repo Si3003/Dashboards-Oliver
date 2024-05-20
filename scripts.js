@@ -1,8 +1,8 @@
 const files = {
     etp: [
         {
-            name: 'ETPSuite_ID_97C.zip',
-            url: 'https://mapcoid-my.sharepoint.com/:u:/r/personal/oliver_panjaitan_map_co_id/Documents/300393/STORE_INDONESIA/ETPSuite/ETPSuite_ID_97C.zip?csf=1&web=1&e=2yVbmW'
+            name: 'ETPSuite_PH_98A',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=31e1cd1d%2D6d8e%2D4758%2D9a2e%2Ddc7fb00e76a7'
         },
         {
             name: 'Tomcat.zip',
