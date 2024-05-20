@@ -19,6 +19,26 @@ const files = {
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=a0a597d5%2D56c5%2D44ce%2D9ff3%2D98c96ad8cb50'
         },
         {
+            name: 'AdbeRdr90_en_US',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=3c5034f2%2D64af%2D457e%2D8e2c%2D9bb56aa37399'
+        },
+        {
+            name: 'TeamViewer_Setup_x64',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=61083652%2D7844%2D4123%2Dbc97%2D4b8f710cf22a'
+        },
+        {
+            name: 'Crytal Report',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=7b7ef360%2Dcabc%2D486c%2D85a2%2D03beade15f69'
+        },
+        {
+            name: 'Star_BSC10_CD_V2.0.0',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=ab73382f%2D27b9%2D496e%2Da6cb%2D4ababaf39890'
+        },
+        {
+            name: 'SQL 2022',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=90e48b67%2D7530%2D45b8%2Dbd06%2D9de6789b9f7c'
+        },
+        {
             name: 'EncryptDecryptR10',
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=157e1190%2D098c%2D4057%2D9b9c%2Dd4c841881d12'
         }
