@@ -5,29 +5,21 @@ const files = {
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=31e1cd1d%2D6d8e%2D4758%2D9a2e%2Ddc7fb00e76a7'
         },
         {
-            name: 'Tomcat.zip',
-            url: 'https://mapcoid-my.sharepoint.com/:u:/r/personal/oliver_panjaitan_map_co_id/Documents/300393/STORE_INDONESIA/ETPSuite/Tomcat.zip?csf=1&web=1&e=2yVbmW'
-        },
-        {
-            name: 'ETPSuite_Version(91B).zip',
-            url: 'https://SATUS_HAS_NOT_BEEN_RELEASED.com/path/to/ETPSuite_Version(91B).zip'
-        },
-        {
-            name: 'ETPSuite_98A.zip',
-            url: 'https://example.com/path/to/ETPSuite_98A.zip'
+            name: 'ETPSuite_ID_98A',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=c86a905e%2Dd7fb%2D4723%2D954d%2D0c851a86582a'
         }
     ],
     store: [
         {
-            name: 'StoreSuite_A1.zip',
+            name: 'Tomcat7',
             url: 'https://example.com/path/to/StoreSuite_A1.zip'
         },
         {
-            name: 'StoreSuite_B2.zip',
+            name: '7Zip',
             url: 'https://example.com/path/to/StoreSuite_B2.zip'
         },
         {
-            name: 'StoreSuite_C3.zip',
+            name: 'SQL_2022',
             url: 'https://example.com/path/to/StoreSuite_C3.zip'
         }
     ],
