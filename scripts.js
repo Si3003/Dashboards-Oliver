@@ -11,16 +11,16 @@ const files = {
     ],
     store: [
         {
-            name: 'Tomcat7',
-            url: 'https://example.com/path/to/StoreSuite_A1.zip'
+            name: 'Environment Java8',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=de50eae1%2D3a3b%2D4a9b%2Daf68%2D4d294add94ae'
         },
         {
-            name: '7Zip',
-            url: 'https://example.com/path/to/StoreSuite_B2.zip'
+            name: '7z920-x64',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=a0a597d5%2D56c5%2D44ce%2D9ff3%2D98c96ad8cb50'
         },
         {
-            name: 'SQL_2022',
-            url: 'https://example.com/path/to/StoreSuite_C3.zip'
+            name: 'EncryptDecryptR10',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=157e1190%2D098c%2D4057%2D9b9c%2Dd4c841881d12'
         }
     ],
     databaseindo: [
