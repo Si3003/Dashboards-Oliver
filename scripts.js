@@ -39,6 +39,10 @@ const files = {
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=90e48b67%2D7530%2D45b8%2Dbd06%2D9de6789b9f7c'
         },
         {
+            name: 'SourceParallels',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=7bd4f889%2D076e%2D4d97%2D861a%2D83ff0b6abfa3'
+        },
+        {
             name: 'EncryptDecryptR10',
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=157e1190%2D098c%2D4057%2D9b9c%2Dd4c841881d12'
         }
