@@ -43,6 +43,10 @@ const files = {
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=7bd4f889%2D076e%2D4d97%2D861a%2D83ff0b6abfa3'
         },
         {
+            name: 'CrowdStrike',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=993657ff%2D2a69%2D4892%2Da606%2D2c40d161c205'
+        },
+        {
             name: 'EncryptDecryptR10',
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=157e1190%2D098c%2D4057%2D9b9c%2Dd4c841881d12'
         }
