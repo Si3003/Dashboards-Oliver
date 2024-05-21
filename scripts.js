@@ -87,8 +87,8 @@ const files = {
     ],
     howto: [
         {
-            name: 'HowTo_Setup.pdf',
-            url: 'https://example.com/path/to/HowTo_Setup.pdf'
+            name: 'SETUP EDS VIETNAM',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=0aa3919d%2D77bd%2D4683%2D8675%2D952c5db3d9fb'
         },
         {
             name: 'HowTo_Install.pdf',
