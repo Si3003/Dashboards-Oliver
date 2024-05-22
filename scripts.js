@@ -47,6 +47,14 @@ const files = {
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=993657ff%2D2a69%2D4892%2Da606%2D2c40d161c205'
         },
         {
+            name: 'ETPRegedit_Store',
+            url: 'https://mapcoid-my.sharepoint.com/:u:/r/personal/oliver_panjaitan_map_co_id/Documents/300393/STORE_INDONESIA/Source_Store/ETPRegedit_StoreCode.reg?csf=1&web=1&e=CQ8Tqf'
+        },
+         {
+            name: 'ICC V7.7.apk',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=b1f31dc3%2Da100%2D4bf3%2D8d41%2Dab3e48322196'
+        },
+        {
             name: 'EncryptDecryptR10',
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=157e1190%2D098c%2D4057%2D9b9c%2Dd4c841881d12'
         }
@@ -99,8 +107,8 @@ const files = {
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=0aa3919d%2D77bd%2D4683%2D8675%2D952c5db3d9fb'
         },
         {
-            name: 'HowTo_Install.pdf',
-            url: 'https://example.com/path/to/HowTo_Install.pdf'
+            name: 'Setup Windows in iMac or Macbook M1,M2',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=603bc706%2D5be5%2D4f14%2Da39e%2Dd43c7e0daf56'
         }
     ]
 };
