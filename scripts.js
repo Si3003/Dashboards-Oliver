@@ -50,7 +50,7 @@ const files = {
             name: 'ETPRegedit_Store',
             url: 'https://mapcoid-my.sharepoint.com/:u:/r/personal/oliver_panjaitan_map_co_id/Documents/300393/STORE_INDONESIA/Source_Store/ETPRegedit_StoreCode.reg?csf=1&web=1&e=CQ8Tqf'
         },
-         {
+        {
             name: 'ICC V7.7.apk',
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=b1f31dc3%2Da100%2D4bf3%2D8d41%2Dab3e48322196'
         },
