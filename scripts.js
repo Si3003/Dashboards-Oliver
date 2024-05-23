@@ -103,10 +103,6 @@ const files = {
     ],
      patch: [
         {
-            name: 'NULL',
-            url: 'https://example.com/path/to/DatabaseSuite_Z3.zip'
-        },
-        {
             name: 'PATCHING 108',
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=40f203d9%2D7491%2D40ed%2D9414%2D82c96d397c70'
         }
