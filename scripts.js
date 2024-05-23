@@ -106,7 +106,7 @@ const files = {
             name: 'PATCHING 108',
             url: 'https://southeastasia1-mediap.svc.ms/transform/zip?cs=fFNQTw'
         }
-    ]
+    ],
     howto: [
         {
             name: 'SETUP EDS VIETNAM',
