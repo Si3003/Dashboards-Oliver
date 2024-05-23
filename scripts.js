@@ -113,6 +113,10 @@ const files = {
     ],
     howto: [
         {
+            name: 'PATCHING MANUAL Hotfix-023 Delivery-108',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=8d1f5276%2D54ad%2D407f%2D8b23%2Da9d11ccc42d1'
+        },
+        {
             name: 'SETUP EDS VIETNAM',
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=0aa3919d%2D77bd%2D4683%2D8675%2D952c5db3d9fb'
         },
