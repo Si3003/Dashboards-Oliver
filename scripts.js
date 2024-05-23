@@ -101,6 +101,12 @@ const files = {
             url: 'https://example.com/path/to/DatabaseSuite_Z3.zip'
         }
     ],
+     howto: [
+        {
+            name: 'PATCHING 108',
+            url: 'https://southeastasia1-mediap.svc.ms/transform/zip?cs=fFNQTw'
+        }
+    ]
     howto: [
         {
             name: 'SETUP EDS VIETNAM',
