@@ -103,12 +103,8 @@ const files = {
     ],
      patch: [
         {
-            name: 'PATCHING-108',
+            name: 'PATCHING_108',
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=bba200bf%2Df650%2D47c8%2Dbdb4%2Dc0e224e1cfef'
-        },
-        {
-            name: 'example',
-            url: 'https://example.com/path/to/DatabaseSuite_Y2.zip'
         }
     ],
     howto: [
