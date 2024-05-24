@@ -108,7 +108,7 @@ const files = {
         },
         {
             name: 'example',
-            url: 'https://example.com/path/to/DatabaseSuite_Z3.zip'
+            url: 'https://example.com/path/to/DatabaseSuite_Y2.zip'
         }
     ],
     howto: [
