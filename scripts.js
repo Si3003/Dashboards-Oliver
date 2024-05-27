@@ -61,8 +61,8 @@ const files = {
     ],
     databaseindo: [
         {
-            name: 'DatabaseSuite_X1.zip',
-            url: 'https://example.com/path/to/DatabaseSuite_X1.zip'
+            name: 'DatabaseSuite_M546',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=a01fadff%2D896a%2D476f%2Db222%2D3527b8a16cfa'
         },
         {
             name: 'DatabaseSuite_Y2.zip',
