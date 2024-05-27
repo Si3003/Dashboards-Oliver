@@ -5,8 +5,8 @@ const files = {
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=31e1cd1d%2D6d8e%2D4758%2D9a2e%2Ddc7fb00e76a7'
         },
         {
-            name: 'ETPSuite_ID_98A',
-            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=c86a905e%2Dd7fb%2D4723%2D954d%2D0c851a86582a'
+            name: 'ETPSuite_ID_108_HotFix',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=259aa013%2D003d%2D4676%2Da611%2Daafccc023dde'
         }
     ],
     store: [
