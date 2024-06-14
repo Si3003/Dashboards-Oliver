@@ -55,6 +55,10 @@ const files = {
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=b1f31dc3%2Da100%2D4bf3%2D8d41%2Dab3e48322196'
         },
         {
+            name: 'Patching_Manual_MAP-108_HotFix',
+            url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Foliver%5Fpanjaitan%5Fmap%5Fco%5Fid%2FDocuments%2F300393%2FSTORE%5FINDONESIA%2FSource%5FStore%2FMAP%2D108%5FDelivery%2Ezip'
+        },
+        {
             name: 'EncryptDecryptR10',
             url: 'https://mapcoid-my.sharepoint.com/personal/oliver_panjaitan_map_co_id/_layouts/15/download.aspx?UniqueId=157e1190%2D098c%2D4057%2D9b9c%2Dd4c841881d12'
         }
